@@ -28,7 +28,7 @@ public class AccountAPI extends AltoroAPI {
 	public Response getAccounts(@Context HttpServletRequest request) {
 
 		// HttpSession session = request.getSession(true);
-		String response;
+		String response; 
 	
 		
 		try {
