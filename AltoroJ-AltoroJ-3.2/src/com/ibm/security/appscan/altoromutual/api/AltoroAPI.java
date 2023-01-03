@@ -1,4 +1,4 @@
-package com.ibm.security.appscan.altoromutual.api ;
+package com.ibm.security.appscan.altoromutual.api; 
 
 
 import javax.ws.rs.ApplicationPath;
