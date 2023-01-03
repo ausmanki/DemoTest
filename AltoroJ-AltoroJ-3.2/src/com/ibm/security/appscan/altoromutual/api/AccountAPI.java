@@ -1,6 +1,6 @@
 package com.ibm.security.appscan.altoromutual.api; 
 
-import java.sql.SQLException;
+import java.sql.SQLException ;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import javax.servlet.http.HttpServletRequest;
