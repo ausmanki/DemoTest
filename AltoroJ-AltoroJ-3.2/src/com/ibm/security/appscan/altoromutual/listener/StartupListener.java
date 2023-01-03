@@ -1,6 +1,6 @@
 package com.ibm.security.appscan.altoromutual.listener; 
 
-import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextEvent; 
 import javax.servlet.ServletContextListener;
 
 import com.ibm.security.appscan.Log4AltoroJ;
