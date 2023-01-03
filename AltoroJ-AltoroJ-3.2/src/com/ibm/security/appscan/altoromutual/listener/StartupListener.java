@@ -1,4 +1,4 @@
-package com.ibm.security.appscan.altoromutual.listener; 
+package com.ibm.security.appscan.altoromutual.listener;
 
 import javax.servlet.ServletContextEvent; 
 import javax.servlet.ServletContextListener;
