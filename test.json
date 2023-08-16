@@ -17,7 +17,7 @@
     "config": {
       "url": "https://demo112.atlassian.net/",
       "username": "manikandan.swami@hcl.com",
-      "password": "Mani@2090",
+      "password": "ATATT3xFfGF0V5whlqkejX3q2NeASS4j0o2H17rwRGkYn_WMLfOXP4PMhjEnKsAaI8kghSETEGbEN9w8eMHJNU3JpLe4Rb3bg4RGdYJqGIzn8-bXje30K8a6tM0OQ-4pbBV-peoHE3N8P0zM8VoZsvMwZtCK4RT7-NZcca3fAcryL54HJgUFchI=ECE93A18",
       "projectkey": "D1",
       "issuetype": "Security",
       "summary": "Security issue: %IssueType% found by %Scanner%",
