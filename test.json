@@ -1,10 +1,10 @@
 {
   "appscanData": {
-    "appscanProvider": "<The provider of AppScan product>",
-    "url": "<The root URL of the provider of AppScan Product>",
-    "apikeyid": "077---------sfgjfsdgjfgj------fgjgfjffgjgfjfg",
-    "apikeysecret": "kkV0jB/bClfdgjd4dfgmkjftfgo0Dfj/YNkMPp6w=",
-    "appid": "75c285f9-1995-e711-80ba-002324b5f40c",
+    "appscanProvider": "ASOC",
+    "url": "https://cloud.appscan.com",
+    "apikeyid": "946ae73a-d97a-cf2c-d94e-bf92b310f070",
+    "apikeysecret": "HQ7vDqvDGqVAlrjTFwI0LofKQbu7GQ+ThfvngN61jhzH",
+    "appid": "98af4fb0-5410-4a2d-a2f0-5b14c2d966a8'",
     "policyids": "351231200-0134212346-123461234asdrs6",
     "issuestates": "New,Open",
     "maxissues": 3,
@@ -15,9 +15,9 @@
   "imData": {
     "provider": "jira",
     "config": {
-      "url": "http://localhost:8081",
-      "username": "xxxxxxxxxxxxxx",
-      "password": "xxxxxxxxxxxxxx",
+      "url": "https://demo112.atlassian.net/",
+      "username": "manikandan.swami@hcl.com",
+      "password": "Mani@122920",
       "projectkey": "SEC",
       "issuetype": "Security",
       "summary": "Security issue: %IssueType% found by %Scanner%",
