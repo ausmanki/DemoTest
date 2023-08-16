@@ -1,0 +1,35 @@
+{
+  "appscanData": {
+    "appscanProvider": "<The provider of AppScan product>",
+    "url": "<The root URL of the provider of AppScan Product>",
+    "apikeyid": "077---------sfgjfsdgjfgj------fgjgfjffgjgfjfg",
+    "apikeysecret": "kkV0jB/bClfdgjd4dfgmkjftfgo0Dfj/YNkMPp6w=",
+    "appid": "75c285f9-1995-e711-80ba-002324b5f40c",
+    "policyids": "351231200-0134212346-123461234asdrs6",
+    "issuestates": "New,Open",
+    "maxissues": 3,
+    "includeIssuefilters": {},
+    "excludeIssuefilters": {},
+    "other": {}
+  },
+  "imData": {
+    "provider": "jira",
+    "config": {
+      "url": "http://localhost:8081",
+      "username": "xxxxxxxxxxxxxx",
+      "password": "xxxxxxxxxxxxxx",
+      "projectkey": "SEC",
+      "issuetype": "Security",
+      "summary": "Security issue: %IssueType% found by %Scanner%",
+      "severitymap": {
+        "High": "High",
+        "Medium": "High",
+        "Low": "Low",
+        "Informational": "Low"
+      },
+      "otherfields": {
+        "labels": ["appscan", "security"]
+      }
+    }
+  }
+}
