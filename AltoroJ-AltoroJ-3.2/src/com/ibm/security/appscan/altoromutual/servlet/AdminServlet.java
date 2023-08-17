@@ -1,6 +1,6 @@
 /**
  This application is for demonstration use only. It contains known application security
-vulnerabilities that were created expressly for demonstrating the functionality of
+vulnerabilities that were created expressly for demonstrating the functionality of 
 application security testing tools. These vulnerabilities may present risks to the
 technical environment in which the application is installed. You must delete and
 uninstall this demonstration application upon completion of the demonstration for
